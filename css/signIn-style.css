@@ -1,0 +1,47 @@
+main {
+	display: grid;
+	grid-template-columns: 50% 37%;
+	margin: 10% 3%;
+}
+
+body {
+	font-family: 'Poppins', sans-serif;
+	background-color: #d6dbdf;
+}
+
+img {
+	width: 80%;
+	margin: auto;
+}
+
+a {
+	display: block;
+	margin-top: 1%;
+	font-size: 80%;
+	font-weight: bold;
+	margin-bottom: 7%;
+}
+
+h2 {
+	margin-bottom: 1%;
+}
+
+input {
+	display: block;
+	font-size: 125%;
+	margin: 4% 0;
+	border: 3px solid black;
+	width: 100%;
+}
+
+button {
+	font-size: 125%;
+	box-shadow: 3px 3px black;
+	margin: 7% auto;
+	display: block;
+}
+
+span {
+	font-weight: bold;
+	color: red;
+}

@@ -1,0 +1,86 @@
+body {
+	background-color: #D6DBDF;
+	font-family: 'Poppins', sans-serif;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+
+main {
+	margin: 5% 2%;
+	display: grid;
+	grid-template-columns: 50% 30%;
+}
+
+img {
+	width: 85%;
+	margin: auto;
+}
+
+a {
+	font-size: 80%;
+	display: block;
+	margin: 5% 0;
+	font-weight: bold;
+}
+
+input, span {
+	display: block;
+}
+
+h2 {
+	margin-bottom: 1%;
+	text-align: left;
+}
+
+.under_heading {
+	margin: 0 0 8%;
+	text-align: left;
+}
+
+input {
+	margin: 5% 0;
+	font-size: 110%;
+	border: 3px solid black;
+	width: 100%;
+}
+
+#success {
+	color: green;
+	font-size: 90%;
+	border: 3px solid black;
+	border-radius: 20px;
+	visibility: hidden;
+	text-align: center;
+	font-weight: bold;
+	margin: 2% 3%;
+}
+
+form {
+	margin-left: 5%;
+	text-align: center;
+}
+
+button {
+	font-size: 110%;
+	box-shadow: 3px 3px black;
+	display: block;
+	margin: 2% auto;
+}
+
+div {
+	margin-top: 10%;
+	position: relative;
+}
+
+span {
+	color: red;
+	font-size: 90%;
+	font-weight: bold;
+	margin: 5% 0;
+}
+
+.near_button {
+	display: block;
+	text-align: center;
+}

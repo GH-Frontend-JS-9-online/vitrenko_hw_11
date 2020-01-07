@@ -1,0 +1,48 @@
+body {
+    background-color: #d6dbdf;
+    font-family: 'Poppins', sans-serif;
+}
+
+main {
+    margin: 10% 3%;
+    display: grid;
+    grid-template-columns: 50% 40%;
+}
+
+img {
+    width: 50%;
+    margin: auto;
+}
+
+input {
+    display: block;
+    font-size: 125%;
+    border: 3px solid black;
+    margin: 3% 0;
+    width: 100%;
+}
+
+span {
+    font-weight: bold;
+    font-size: 100%;
+    display: block;
+    margin-top: 1%;
+    margin-bottom: 12%;
+}
+
+h2 {
+    margin-bottom: 1%;
+}
+
+#error {
+    color: red;
+    margin: 5% 0;
+    font-size: 90%;
+}
+
+button {
+    display: block;
+    margin: 10% auto;
+    box-shadow: 3px 3px black;
+    font-size: 125%;
+}
